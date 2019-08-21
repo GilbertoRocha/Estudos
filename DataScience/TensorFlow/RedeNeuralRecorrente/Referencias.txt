@@ -1,0 +1,2 @@
+Exercicio extraido do curso "TensorFlow: Machine Learning e Deep Learning com Python", oferecido pelo Prof. Jones Granatyr.
+Link do curso: https://www.udemy.com/tensorflow-machine-learning-deep-learning-python/
